@@ -8,7 +8,7 @@
 
     <groupId>com.internal-razorpay</groupId>
     <artifactId>standard-core</artifactId>
-    <version>1.6.57-SNAPSHOT</version>
+    <version>1.6.58-SNAPSHOT</version>
     <packaging>aar</packaging>
 
     <name>Razorpay Android Checkout SDK</name>
