@@ -6,7 +6,7 @@
     >
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.razorpay</groupId>
+    <groupId>com.internal-razorpay</groupId>
     <artifactId>standard-core</artifactId>
     <version>1.6.57-SNAPSHOT</version>
     <packaging>aar</packaging>
