@@ -51,12 +51,12 @@
             </dependency>
 	    <dependency>
 		<groupId>com.internal-razorpay</groupId>
-		<artifactId>core</artifact>
+		<artifactId>core</artifactId>
 		<version>1.0.0-SNAPSHOT</version>
 	    </dependency>
 	    <dependency>
 		<groupId>com.internal-razorpay</groupId>
-		<artifactId>otpelf</artifact>
+		<artifactId>otpelf</artifactId>
 		<version>1.0.0-SNAPSHOT</version>
 	    </dependency>
         </dependencies>
