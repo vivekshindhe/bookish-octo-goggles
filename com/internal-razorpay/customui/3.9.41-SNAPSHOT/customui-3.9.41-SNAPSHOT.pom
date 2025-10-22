@@ -7,7 +7,7 @@
     <modelVersion>4.0.0</modelVersion>
     
     <groupId>com.internal-razorpay</groupId>
-    <artifactId>customui-core</artifactId>
+    <artifactId>customui</artifactId>
     <version>3.9.41-SNAPSHOT</version>
     <packaging>aar</packaging>
     
