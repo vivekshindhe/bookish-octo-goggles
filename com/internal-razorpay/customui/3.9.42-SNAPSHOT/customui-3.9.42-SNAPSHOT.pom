@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.internal-razorpay</groupId>
     <artifactId>customui</artifactId>
-    <version>3.9.42-SNAPSHOT</version>
+    <version>3.9.32-SNAPSHOT</version>
     <packaging>aar</packaging>
     <name>Razorpay CustomUI SDK</name>
     <description>Custom UI module for Razorpay Android SDK</description>
