@@ -6,7 +6,7 @@
     >
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.internal-razorpay</groupId>
+    <groupId>com.razorpay</groupId>
     <artifactId>payment-sdk</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>aar</packaging>
@@ -30,7 +30,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.internal-razorpay</groupId>
+            <groupId>com.razorpay</groupId>
             <artifactId>checkout</artifactId>
             <version>1.6.40</version>
             <scope>compile</scope>
