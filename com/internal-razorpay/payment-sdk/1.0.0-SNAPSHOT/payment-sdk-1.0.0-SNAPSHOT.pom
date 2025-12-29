@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project
+    xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"
+    >
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.internal-razorpay</groupId>
+    <artifactId>payment-sdk</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+    <packaging>aar</packaging>
+
+    <name>Razorpay Payment SDK for Android</name>
+    <description>
+        Razorpay Payment SDK - A wrapper SDK around Razorpay Checkout for easy payment integration on Android devices.
+    </description>
+    <url>https://razorpay.com</url>
+
+    <licenses>
+        <license>
+            <name>Proprietary</name>
+            <url></url>
+        </license>
+    </licenses>
+
+    <scm>
+        <url>git@github.com:razorpay/razorpay-payment-android.git</url>
+    </scm>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.internal-razorpay</groupId>
+            <artifactId>checkout</artifactId>
+            <version>1.6.40</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.squareup.okhttp3</groupId>
+            <artifactId>okhttp</artifactId>
+            <version>4.12.0</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
+
+    <developers>
+        <developer>
+            <name>Team Razorpay</name>
+            <email>developers@razorpay.com</email>
+            <organization>Razorpay</organization>
+            <organizationUrl>https://razorpay.com</organizationUrl>
+        </developer>
+    </developers>
+</project>
